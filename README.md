@@ -1,5 +1,4 @@
-[Esp]
-Me gusta programar en C, C++ y Python.
+Fav programmating languages: C, Python, PHP
 
-[Eng]
-I like to program in C, C++ and Python.
+Life is hard man, I'm trying my best to not give up.
+Mental obstacles are the worst.
