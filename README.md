@@ -1,5 +1,9 @@
-Fav programming languages: C, Python, PHP
-
-Life is hard man, I'm trying my best to not give up.
-
-Mental obstacles are the worst.
+<h1>Hello there!</h1>
+<p>My name is Joaquin, but you can call me <b>Lost</b>!<br>
+I am a young IT technician who aspires to be a videogame developer and producer!<br></p>
+<h3>I have learned various languages and techniques throughout my journey, such as:</h3>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"/> ,
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Server" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Server" width="20" height="20"/> ,
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="32" height="32"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="32" height="32"/><br>
+Currently, I don't have too much skill in them, and my memory is a bit fuzzy. <i>"If you don't use it you lose it"</i> they say!</p><br>
+<p>P.D: I'm shy</p>
